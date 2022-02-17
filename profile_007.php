@@ -54,7 +54,7 @@ body {
 <h2 style="text-align:center">My Profile</h2>
 
 <div class="card">
-  <img src="picture\007.jpg" alt="John" style="width:75%">
+  <img src="picture_tanakorn\007.jpg" alt="John" style="width:75%">
   <h2>ชื่อ : นาย ธนากร วงศ์ทอง</h2>
   <p>เพื่อนสนิท : รัตนากร</p>
   <p>งานอดิเรก : ตัดต่อวิดีโอ</p>
@@ -66,7 +66,7 @@ body {
     <a href="https://www.youtube.com/channel/UCzA3oKApyPq6czR4GjzXofw"><i class="fa fa-youtube"></i></a>
 
   </div>
-  <p><button></button></p>
+  <p><button>Contact</button></p>
 </div>
 
 </body>
